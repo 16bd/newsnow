@@ -1,15 +1,15 @@
 {
-  "name": "newsnow",
+  "name": "百搭",
   "type": "module",
-  "version": "0.0.25",
+  "version": "",
   "private": true,
   "packageManager": "pnpm@10.5.2",
   "author": {
-    "url": "https://github.com/ourongxing/",
-    "email": "orongxing@gmail.com",
-    "name": "ourongxing"
+    "url": "https://www.16bd.com",
+    "email": "",
+    "name": ""
   },
-  "homepage": "https://github.com/ourongxing/newsnow",
+  "homepage": "https://news.16bd.com",
   "scripts": {
     "dev": "npm run presource && vite dev",
     "build": "npm run presource && vite build",
