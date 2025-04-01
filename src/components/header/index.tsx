@@ -46,7 +46,7 @@ export function Header() {
         <Link to="/" className="flex gap-2 items-center">
           <div className="h-10 w-10 bg-cover" title="logo" style={{ backgroundImage: "url(/favicon.ico)" }} />
           <span className="text-2xl font-brand line-height-none!">
-            <p>百搭News</p>
+            <p>百搭</p>
           </span>
         </Link>
       </span>
