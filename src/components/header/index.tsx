@@ -44,7 +44,7 @@ export function Header() {
     <>
       <span className="flex justify-self-start">
         <Link to="/" className="flex gap-2 items-center">
-          <div className="h-10 w-10 bg-cover" title="logo" style={{ backgroundImage: "url(/icon.svg)" }} />
+          <div className="h-10 w-10 bg-cover" title="logo" style={{ backgroundImage: "url(/favicon.ico)" }} />
           <span className="text-2xl font-brand line-height-none!">
             <p>News</p>
             <p className="mt--1">
