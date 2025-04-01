@@ -46,11 +46,7 @@ export function Header() {
         <Link to="/" className="flex gap-2 items-center">
           <div className="h-10 w-10 bg-cover" title="logo" style={{ backgroundImage: "url(/favicon.ico)" }} />
           <span className="text-2xl font-brand line-height-none!">
-            <p>News</p>
-            <p className="mt--1">
-              <span className="color-primary-6">N</span>
-              <span>ow</span>
-            </p>
+            <p>百搭News</p>
           </span>
         </Link>
         <a target="_blank" href={`${Homepage}/releases/tag/v${Version}`} className="btn text-sm ml-1 font-mono">
